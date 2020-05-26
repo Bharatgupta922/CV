@@ -6,16 +6,24 @@
 }
 .footer-link:hover{
   color:#EAF6F6;
+  text-decoration: none;
 }
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
 }
+.navbar-brand{
+font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
 .copyright{
   color:#EAF6F6;
   padding:20px 0;
   font-size: 0.75rem;
+  margin-bottom : 0 ;
 }
+
 .topContainer{
   background-color: #E4F9F5;
   padding-top: 100px;
